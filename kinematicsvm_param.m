@@ -3,6 +3,12 @@
 % features using F-score
 function [accCv, accTest] = kinematicsvm_param(Data,param)
 
+% ----------------------------
+% Author : Atesh Koul
+% Italian Institute of technology, Genoa
+% ----------------------------
+
+
 
 % Get the current folder will be used to save the files filename.fscore,
 % filename.select
